@@ -1,0 +1,17 @@
+D:\Desktop\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\net6.0-windows\Lab6_Basic_Command.exe
+D:\Desktop\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\net6.0-windows\Lab6_Basic_Command.deps.json
+D:\Desktop\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\net6.0-windows\Lab6_Basic_Command.runtimeconfig.json
+D:\Desktop\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\net6.0-windows\Lab6_Basic_Command.dll
+D:\Desktop\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\net6.0-windows\Lab6_Basic_Command.pdb
+D:\Desktop\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\net6.0-windows\Lab6_Basic_Command.csproj.AssemblyReference.cache
+D:\Desktop\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\net6.0-windows\Lab6_Basic_Command.Form1.resources
+D:\Desktop\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\net6.0-windows\Lab6_Basic_Command.csproj.GenerateResource.cache
+D:\Desktop\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\net6.0-windows\Lab6_Basic_Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\net6.0-windows\Lab6_Basic_Command.AssemblyInfoInputs.cache
+D:\Desktop\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\net6.0-windows\Lab6_Basic_Command.AssemblyInfo.cs
+D:\Desktop\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\net6.0-windows\Lab6_Basic_Command.csproj.CoreCompileInputs.cache
+D:\Desktop\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\net6.0-windows\Lab6_Basic_Command.dll
+D:\Desktop\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\net6.0-windows\refint\Lab6_Basic_Command.dll
+D:\Desktop\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\net6.0-windows\Lab6_Basic_Command.pdb
+D:\Desktop\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\net6.0-windows\Lab6_Basic_Command.genruntimeconfig.cache
+D:\Desktop\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\net6.0-windows\ref\Lab6_Basic_Command.dll
